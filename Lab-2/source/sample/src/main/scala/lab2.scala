@@ -15,10 +15,10 @@ object lab2 {
     val pattern=string.flatMap(x=>x.split(" ")).filter(line=>line.contains(word)).map(temp=>(temp,1)).reduceByKey(_+_).sortBy(_._2,false)
     println("The lines which contains the word you entered:")
     line.foreach(println)
-    line.saveAsTextFile("lines")
+    line.saveAsTextFile("lines_output")
     println(("Count of words which contains the word you entered:"))
     pattern.foreach(println)
-    pattern.saveAsTextFile("word count")
+    pattern.saveAsTextFile("word count_output")
 
   }
 }
