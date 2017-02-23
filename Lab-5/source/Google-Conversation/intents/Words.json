@@ -1,0 +1,103 @@
+{
+  "userSays": [
+    {
+      "id": "96ef5966-5860-488e-b022-629240860ea7",
+      "data": [
+        {
+          "text": "what frame "
+        },
+        {
+          "text": "1st",
+          "alias": "Frame",
+          "meta": "@Frame",
+          "userDefined": false
+        },
+        {
+          "text": " contains"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e3481d3-521e-4bc6-98b0-d14fd9cc4ab4",
+      "data": [
+        {
+          "text": "what we can see in frame "
+        },
+        {
+          "text": "one",
+          "alias": "Frame",
+          "meta": "@Frame",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d71fa8de-becb-412f-b0a2-7e72ed645839",
+      "data": [
+        {
+          "text": "what are most identified unique annotations in "
+        },
+        {
+          "text": "first",
+          "alias": "Frame",
+          "meta": "@Frame",
+          "userDefined": false
+        },
+        {
+          "text": " frame"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0c57b30-b606-47d8-a17d-34fd92cfc606",
+      "data": [
+        {
+          "text": "what is observed in frame "
+        },
+        {
+          "text": "1",
+          "alias": "Frame",
+          "meta": "@Frame",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9c54f143-271c-436d-a2cb-eb93c5fcead9",
+  "name": "Words",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "words",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@Frame",
+          "name": "Frame",
+          "value": "$Frame"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Sorry information is not available"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

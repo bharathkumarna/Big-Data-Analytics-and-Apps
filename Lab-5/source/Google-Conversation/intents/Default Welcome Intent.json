@@ -1,0 +1,71 @@
+{
+  "userSays": [
+    {
+      "id": "aff4eba9-b46d-4545-9872-7bf01570317c",
+      "data": [
+        {
+          "text": "Ok Google, I want to talk to summarizer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91fd54e1-defd-4b08-8a7a-c63aa145dbb9",
+      "data": [
+        {
+          "text": "Let me talk to summarizer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0f36378c-51e2-4538-a31e-66c3ce31e02c",
+      "data": [
+        {
+          "text": "I want to talk to video summarizer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b8218529-a122-40c5-a65b-e69292ef46b3",
+      "data": [
+        {
+          "text": "Ok Google, Let me talk to video summarizer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "21455251-1f59-4c71-9f94-32d11d537db3",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Hi! I am video summarizer. What are you looking for?"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

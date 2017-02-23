@@ -1,0 +1,45 @@
+{
+  "id": "a58b295d-7cbc-478b-909a-3ab542b9a0cd",
+  "name": "Frame",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "one",
+      "synonyms": [
+        "one",
+        "1",
+        "first",
+        "1st"
+      ]
+    },
+    {
+      "value": "two",
+      "synonyms": [
+        "two",
+        "2",
+        "second",
+        "2nd"
+      ]
+    },
+    {
+      "value": "three",
+      "synonyms": [
+        "three",
+        "3",
+        "third",
+        "3rd"
+      ]
+    },
+    {
+      "value": "four",
+      "synonyms": [
+        "four",
+        "4",
+        "4th",
+        "fourth"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

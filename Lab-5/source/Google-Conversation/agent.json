@@ -1,0 +1,37 @@
+{
+  "description": "",
+  "language": "en",
+  "enabledDomainFeatures": [],
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "invocationName": "summarizer",
+    "project": "bigdata-155317",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "9c54f143-271c-436d-a2cb-eb93c5fcead9",
+        "signInRequired": false
+      }
+    ],
+    "endIntentIds": [
+      "9c54f143-271c-436d-a2cb-eb93c5fcead9"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "FEMALE_1"
+  },
+  "defaultTimezone": "",
+  "webhook": {
+    "url": "https://bharathkumarna.herokuapp.com/webhook",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": true
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.2
+}
