@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/settings_button.xml",
+        "source": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.30.0/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/back_button.xml",
+        "source": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.30.0/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.30.0/res/layout-land/ui_layer_with_portrait_support.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-nodpi/vr_icon.png",
+        "source": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/src/main/res/drawable-nodpi/vr_icon.png"
+    },
+    {
+        "merged": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-nodpi/vr_icon_background.png",
+        "source": "/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/src/main/res/drawable-nodpi/vr_icon_background.png"
+    }
+]

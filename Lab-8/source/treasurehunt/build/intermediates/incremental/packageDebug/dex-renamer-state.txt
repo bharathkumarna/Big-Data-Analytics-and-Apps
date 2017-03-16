@@ -1,0 +1,4 @@
+#Wed Mar 15 22:13:21 CDT 2017
+base.0=/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/bharath/7/Tutorial 6 - Google Cardboard Development/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
